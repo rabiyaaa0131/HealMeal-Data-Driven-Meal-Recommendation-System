@@ -176,7 +176,7 @@ if submit:
 
     Welcome to **HealMeal – Your Personal Health Nutrition Assistant.**
 
-    Based on your health condition (**{main_condition}**),
+    Based on your health condition ,
     we have designed a customized meal plan for you.
 
     ✨ Stay positive  
@@ -339,3 +339,4 @@ if submit:
         "HealMeal_Plan.pdf",
         "application/pdf"
     )
+
