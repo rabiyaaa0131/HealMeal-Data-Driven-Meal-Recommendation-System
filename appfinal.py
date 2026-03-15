@@ -11,7 +11,7 @@ from reportlab.lib import colors
 # PAGE CONFIG
 # -------------------------------------------------
 st.set_page_config(
-    page_title="HealMeal – Data Driven Meal Recommendation System",
+    page_title="HEALMEAL- A SMART MEAL SUGGESTION SYSTEM",
     page_icon="🥗",
     layout="centered"
 )
@@ -33,7 +33,7 @@ st.markdown("""
 
 <div class="hero">
 <h1>🥗 HealMeal</h1>
-<h3>Data Driven Meal Recommendation System</h3>
+<h3>Smart Meal Suggestion System</h3>
 <p>Personalized • Condition-Aware • Dataset-Based</p>
 </div>
 <hr>
